@@ -8,3 +8,5 @@
   * with inspiration from other similar products such as redactify
 * will be working in sprints with some form of sprint planning
 * ideas regarding final product and tech stack
+* Craig and Graham have a swagger specification for an API format already drafted
+* Communication over Slack channel
