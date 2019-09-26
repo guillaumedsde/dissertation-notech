@@ -34,12 +34,13 @@
 * **2 hours** looking over scikit introduction to Machine learning as well as running and understanding one of their practical text classification examples
 
 ### 24/09/2019
-
 * Attended **4 hours** induction on Level 4 project
 * **2 hours** setting up a logbook static website, creating Gitlab group and repositories and researching potential technology stacks
 
 ### 25/09/2019
-
 * **2 hours** looking over LIME machine learning output explanation and associated paper
 * **30mins** meeting with Craig and Graham regarding planning and outline of features for product
 * **3 hours** cloning repositories to github, train ML pipeline with sci-kit, tried with some success to cateogorize some news article
+
+## 26/09/2019
+* **2 hours** research python frameworks for API, implemented LIME explainer, maintain repositories and create classifier repository
