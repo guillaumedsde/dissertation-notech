@@ -44,3 +44,9 @@
 
 ## 26/09/2019
 * **2 hours** research python frameworks for API, implemented LIME explainer, maintain repositories and create classifier repository
+
+## 29/09/2019
+* **1 hour** Working on text extraction, notably from Snowden Leaks
+
+## 30/09/2019
+* **2 hours** improving text extraction, text pre-processing and code structure
