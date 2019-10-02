@@ -5,7 +5,9 @@ stages:
 build:
   image: pandoc/core:latest
   stage: build
+  entrypoint: ""
   script:
+    - apk add make
     - make all
   artifacts:
     paths:
