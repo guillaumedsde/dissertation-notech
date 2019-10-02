@@ -4,7 +4,7 @@ stages:
 
 build:
   image:
-    name: pandoc/core:latest
+    name: pandoc/latex:latest
     entrypoint: [""]
   stage: build
   script:
