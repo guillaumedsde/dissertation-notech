@@ -1,0 +1,23 @@
+stages:
+  - build
+  - deploy
+
+build:
+  image: pandoc/core:latest
+  stage: build
+  script:
+    - make all
+  artifacts:
+    paths:
+      - "*.pdf"
+
+pages:
+  stage: deploy
+  script:
+    - mkdir public
+    - cp *.pdf public/
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
