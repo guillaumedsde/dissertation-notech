@@ -50,3 +50,9 @@
 
 ## 30/09/2019
 * **2 hours** improving text extraction, text pre-processing and code structure
+
+## 01/10/2019
+* **2 hours** Discovering spaCy NLP framework and working on code structure
+
+## 02/10/2019
+* **2 hours** Preparing meeting, automating builds of markdown to PDF for notech repo, working on code structure
