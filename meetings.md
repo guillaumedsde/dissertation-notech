@@ -32,3 +32,25 @@
   * have not looked much at other features
 * Potential difficulty: extracting text from document, processing it, and highlighting words in original document in order to keep structure
   * might have to restrict scope to PDFs only (and mabye raw text) in order to avoid having to find a way to render many different file types
+
+### Meeting
+* use SVM classifier
+* Data + labels **ground truth** by email
+* 5 fold cross validation
+  * split data into 5 groups
+  * create model from every 4/5 combination and run on the last fifth
+* metrics
+  * Balanced accuray
+  * F2
+* Precision
+  * expectation of classification precision
+* Recall
+  * actual classification performance
+  * We want a classfication skewed towards recall:
+    * we'd rather have more manual work than release a poorly classified document
+* Start documenting some requirements for the final product
+  * send copy before next meeting
+* create some vizualizations for the explainer
+  * graph
+  * highlighting in original text
+* Find other explainers to compare with lime, in order to explain differences between explanations

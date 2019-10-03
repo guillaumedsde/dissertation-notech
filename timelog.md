@@ -39,7 +39,7 @@
 
 ### 25/09/2019
 * **2 hours** looking over LIME machine learning output explanation and associated paper
-* **30mins** meeting with Craig and Graham regarding planning and outline of features for product
+* ** 30mins** meeting with Craig and Graham regarding planning and outline of features for product
 * **3 hours** cloning repositories to github, train ML pipeline with sci-kit, tried with some success to cateogorize some news article
 
 ## 26/09/2019
@@ -56,3 +56,4 @@
 
 ## 02/10/2019
 * **2 hours** Preparing meeting, automating builds of markdown to PDF for notech repo, working on code structure
+* **30 mins** meeting, discussed progress, data, its labels, methodology for analysis
