@@ -57,3 +57,9 @@
 ## 02/10/2019
 * **2 hours** Preparing meeting, automating builds of markdown to PDF for notech repo, working on code structure
 * **30 mins** meeting, discussed progress, data, its labels, methodology for analysis
+
+## 03/10/2019
+* **2 hours** working with received dataset, and programming a k-fold cross validation
+
+## 05/10/2019
+* **4 hours** cleaning up code, researching and trying to implement explainers other than lime (unsuccessful), generating Lime visualisations
