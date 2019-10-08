@@ -14,19 +14,19 @@
 
 ## Format
 
-```
+```markdown
 ## Week 1
 
 ### 19 Oct 2019
 
-* *4 hours* Read the project guidance notes
-* *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
-* *1 hour* Modified dissertation template, compiled
+- _4 hours_ Read the project guidance notes
+- _0.5 hour_ Created GitLab repository and cloned the cookiecutter for the projects
+- _1 hour_ Modified dissertation template, compiled
 
 ## 20 Oct 2019
 
-* *1 hour* meeting with supervisor
-* *2 hours* writing initial version of test harness
+- _1 hour_ meeting with supervisor
+- _2 hours_ writing initial version of test harness
 ```
 
 ## Content
@@ -74,3 +74,11 @@
 ## 05/10/2019
 
 - **4 hours** cleaning up code, researching and trying to implement explainers other than lime (unsuccessful), generating Lime visualisations
+
+## 07/10/2019
+
+- **2 hours** following tutorial for ReactJS frontend framework
+
+## 08/10/2019
+
+- **2 hours** researching Machine Learning model explainers and implementing ELI5 explainer
