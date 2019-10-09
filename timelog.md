@@ -82,3 +82,8 @@
 ## 08/10/2019
 
 - **2 hours** researching Machine Learning model explainers and implementing ELI5 explainer
+- **3 hours** trying to implement SHAP KernelExplainer and eli5 feature permutation, as well as following more ReactJS tutorials
+
+## 09/10/2019
+
+- **2 hours** preparing meeting and trying to implement SHAP TreeExplainer

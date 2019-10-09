@@ -55,3 +55,31 @@
   - graph
   - highlighting in original text
 - Find other explainers to compare with lime, in order to explain differences between explanations
+
+## 09/10/2019
+
+### Preperation notes
+
+- Precision
+  - = True Positive / (True Positive + False Positive)
+  - > What proportion of positive identifications was actually correct?
+- Recall
+  - = True Positive / (True Positive + False Negative)
+  - > What proportion of actual positives was identified correctly?
+- seen quite a bit of tutorials using `GridSearchCV()`
+  - what is it? Is it searching for the best parameters for a classifier?
+- I've tried adding NLTK lemmatization to my Pipeline, got some improvements across the classifiers, minor except for a few of them
+  - but considerably slower than previous tokenizer (not sure which one)
+- performed 5 fold cross-validation
+  - ff
+- struggled a bit with sklearn Pipeline
+  - lots of the Python ML explainer modules works with the classifier only, hence when passing pipeline the steps before the classifier (vectorization ....) are not necessarily run
+  - Some work fine (e.g. Lime) others, not so much, eli5 feature permutation
+- I've tried measure feature importance with Permutation Feature Importance
+  - have not gotten it to work `TypeError: A sparse matrix was passed, but dense data is required. Use X.toarray() to convert to a dense numpy array.`
+  - I'm not sure I understand why a sparse matrix is so different from denser matrices?
+- Have tried calculating SHAP values
+  - Average per feature contribution to each combination of all features?
+  - Explainer training too long because dataset too big
+    - was told to use Kmeans
+      - `NotImplementedError: subtracting a nonzero scalar from a sparse matrix is not supported`
