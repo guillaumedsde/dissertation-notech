@@ -87,3 +87,4 @@
 ## 09/10/2019
 
 - **2 hours** preparing meeting and trying to implement SHAP TreeExplainer
+- **30 mins** meeting, talk about API specifications, designing requirements and sensibility of data
