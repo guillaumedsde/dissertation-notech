@@ -88,3 +88,4 @@
 
 - **2 hours** preparing meeting and trying to implement SHAP TreeExplainer
 - **30 mins** meeting, talk about API specifications, designing requirements and sensibility of data
+- **2 hours** working on swagger specification, settting up its repo with CI and generating conexion project from it.
