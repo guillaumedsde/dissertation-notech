@@ -89,3 +89,13 @@
 - **2 hours** preparing meeting and trying to implement SHAP TreeExplainer
 - **30 mins** meeting, talk about API specifications, designing requirements and sensibility of data
 - **2 hours** working on swagger specification, settting up its repo with CI and generating conexion project from it.
+
+## 10/10/2019
+
+- **3 hours**
+  - looking over swagger API specification
+  - updating it to OpenAPI v3.0 spec
+  - added missing descriptions
+  - setting up CI pipeline for documentation generation as well as OpenAPI specficiations validator. Generate
+  - generated conexion API from OpenAPI specification
+  - started work on adapting classification code for API (and cleaning it up)
