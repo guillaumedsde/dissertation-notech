@@ -99,3 +99,11 @@
   - setting up CI pipeline for documentation generation as well as OpenAPI specficiations validator. Generate
   - generated conexion API from OpenAPI specification
   - started work on adapting classification code for API (and cleaning it up)
+
+## 13/10/2019
+
+- **3 hours** exploring OpenAPI specification, making API spec more restful, start from scratch adding endpoints one at a time
+
+## 15/10/2019
+
+- **4 hours** work on OpenAPI specifications and SQLAlchemy ORM for Basic document set creation and file upload (still WIP)
