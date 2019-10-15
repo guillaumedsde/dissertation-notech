@@ -37,3 +37,33 @@ Here is a list of user stories for the application, I have extracted key feature
   - train model but discard document
 - As a developer I want to standardize API calls so that others can easily built upon or improve the final application
   - API specification
+
+## MoSCoW
+
+### Must have
+
+- document Set creation and deletion
+- within a set, plaintext document creation and deletion
+- for a document, binary sensitivity classification (sensitive or not?)
+- explanation for aforementioned classification
+- User binary classification of a document (sensitive or not?)
+- for a set of document, overall sensitivity statistics (number of sensitive documents etc...)
+- for a set of documents, ordering of documents by sensitivity
+- User redactions of a document by higlighting
+- final redacted document exporting
+
+### Should have
+
+- User redactions helper (highlight all instances of redacted text, could do this on a document set level)
+- for a document, suggest redaction of sensitive elements
+- deployment of web application beyond development environment (HTTPS, production web server, firewall etc...)
+- fulltext document search
+
+### Could have
+
+- Reviewer authentication (what for?)
+- Handle more than plain text files (PDF, Word etc...)
+- "Loopback Learning", user interactions help improve future redactions
+- Extract entities from document and display them (spaCy)
+
+### Would have
