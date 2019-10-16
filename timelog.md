@@ -106,4 +106,8 @@
 
 ## 15/10/2019
 
-- **4 hours** work on OpenAPI specifications and SQLAlchemy ORM for Basic document set creation and file upload (still WIP)
+- **4 hours** work on MoSCoW requirements, OpenAPI specifications and SQLAlchemy ORM for Basic document set creation and file upload (still WIP)
+
+## 16/10/2019
+
+- **4 hours** working on Flask API, added document set creation and SQL model generation from OpenAPI specification and marshmallow serialization
