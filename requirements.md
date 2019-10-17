@@ -45,25 +45,31 @@ Here is a list of user stories for the application, I have extracted key feature
 - document Set creation and deletion
 - within a set, plaintext document creation and deletion
 - for a document, binary sensitivity classification (sensitive or not?)
-- explanation for aforementioned classification
-- User binary classification of a document (sensitive or not?)
+- explanation for aforementioned classifications
+- user binary classification of a document (sensitive or not?)
 - for a set of document, overall sensitivity statistics (number of sensitive documents etc...)
-- for a set of documents, ordering of documents by sensitivity
-- User redactions of a document by higlighting
+- for a set of documents, ordered of documents by sensitivity
+- User redactions of a document with text highlighting, with possible edits and save functionality
 - final redacted document exporting
+- documentation for API
 
 ### Should have
 
-- User redactions helper (highlight all instances of redacted text, could do this on a document set level)
+- user redactions helper (highlight all instances of redacted text, could do this on a document set level)
 - for a document, suggest redaction of sensitive elements
 - deployment of web application beyond development environment (HTTPS, production web server, firewall etc...)
-- fulltext document search
+- fulltext document search (what for?)
+- clearly specified and enforced document upload limitations (number of documents _and_ document size)
 
 ### Could have
 
-- Reviewer authentication (what for?)
-- Handle more than plain text files (PDF, Word etc...)
-- "Loopback Learning", user interactions help improve future redactions
-- Extract entities from document and display them (spaCy)
+- reviewer authentication (what for? access control to documents?)
+- extract entities from document and display them (spaCy)
+- possibility of using different text Classifiers (what for?)
+- documentation for API SDK
+- documentation for frontend
 
 ### Would have
+
+- handle more than plain text files (PDF, Word etc...)
+- "Loopback Learning": user interactions help improve future predictions
