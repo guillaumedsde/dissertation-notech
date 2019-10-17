@@ -92,3 +92,21 @@
 - establish requirements with MoSCow instead of User stories
   - more structured and precision following MoSCoW
   - specific to project not just general specs like "file upload"
+
+## 17/10/2019
+
+### Preperation Notes
+
+- OpenAPI
+  - upgraded it to OpenAPI 3.0.2 standard
+  - fixed non restful routes
+  - added descriptions to already existing schemas and routes
+  - temporarily commented out currently unused routes
+  - implemented a CI pipeline for validation of the specification using an IBM developed OpenAPI validator written in Node
+  - added deployment of the specification of the rendered YAML using swagger-ui
+- Flask
+  - Generated OpenAPI boilerplate code
+  - Automatic SQLAlchemy model generation from OpenAPI schemas
+  - Document set creation
+
+### Meeting
