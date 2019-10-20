@@ -111,3 +111,11 @@
 ## 16/10/2019
 
 - **4 hours** working on Flask API, added document set creation and SQL model generation from OpenAPI specification and marshmallow serialization
+
+## 17/10/2019
+
+- **3 hours** going over java backend implementation, writing Dockefile for compiling and running it
+
+## 20/10/2019
+
+- **2 hours** more progress on ReactJS course, some thoughts on the application and the rescope
