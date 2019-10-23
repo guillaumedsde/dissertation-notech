@@ -119,3 +119,11 @@
 ## 20/10/2019
 
 - **2 hours** more progress on ReactJS course, some thoughts on the application and the rescope
+
+## 21/10/2019
+
+- **2 hours** UI design research and wireframing
+
+## 23/10/2019
+
+- **30 mins** preparing meeting

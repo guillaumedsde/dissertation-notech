@@ -110,3 +110,21 @@
   - Document set creation
 
 ### Meeting
+
+- review of requirements
+- focus on frontend, will try to use premade java backend
+- will need some wireframes
+
+## 23/10/2019
+
+### Preperation Notes
+
+- have worked on Dockerfile for easy compiling and running of Java rest API implementation
+- have followed some more React Tutorials (frontend masters course)
+- have researched UIs and drawn up some wireframes
+  - get rid of hamburger menu
+    - vertical sidebar?
+    - keep burger menu to expand sidebar to include text next to action icons?
+    - replace _Save Document_ with _Save redactions_?
+  - remove redaction accross entire document and/or entire document set?
+  - undo?
