@@ -119,3 +119,12 @@
 ## 20/10/2019
 
 - **2 hours** more progress on ReactJS course, some thoughts on the application and the rescope
+
+## 22/10/2019
+
+- **2 hours** Research and wireframing
+
+## 29/10/2019
+
+- **3 hours** initial ReactJS app, adapting the JS client to React (using promises etc...)
+- **2 hours** Research and testing of alternative redaction products for inspiration, reflection on app design, still need to wireframe
