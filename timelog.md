@@ -124,6 +124,10 @@
 
 - **2 hours** Research and wireframing
 
+## 23/10/2019
+
+- **30 mins** preparing meeting
+
 ## 29/10/2019
 
 - **3 hours** initial ReactJS app, adapting the JS client to React (using promises etc...)
