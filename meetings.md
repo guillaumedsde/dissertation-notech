@@ -110,3 +110,10 @@
   - Document set creation
 
 ### Meeting
+
+- toggles for turning off suggested/real redactions
+- lookup different FOI categories
+- evaluate current redaction processes even if bad like MS word replace text
+- redaction legislation context
+- eredact.co.uk
+- comments vs annotations (or comments in annotations)
