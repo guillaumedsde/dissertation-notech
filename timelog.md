@@ -132,3 +132,19 @@
 
 - **3 hours** initial ReactJS app, adapting the JS client to React (using promises etc...)
 - **2 hours** Research and testing of alternative redaction products for inspiration, reflection on app design, still need to wireframe
+
+## 01/11/2019
+
+- **2 hours** cleanup of old projects and migration to ElasticSearch + Flask + React stack
+
+## 03/11/2019
+
+- **3 hours** Creating new API client and migrating frontend to it
+
+## 04/11/2019
+
+- **2 hours** working on ReactJS front and API document upload
+
+## 05/11/2019
+
+- **11 hours** working on ReactJS frontend and python API, implemented document visualization and classification with sensitivity explanation
