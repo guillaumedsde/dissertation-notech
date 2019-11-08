@@ -148,3 +148,15 @@
 ## 05/11/2019
 
 - **11 hours** working on ReactJS frontend and python API, implemented document visualization and classification with sensitivity explanation
+
+## 06/11/2019
+
+- **6 hours** meeting preparation, meeting, work on frontend and toggling visualizations
+
+## 07/11/2019
+
+- **2 hours** converting to monorepo and work on adapting CI pipeline
+
+## 08/11/2019
+
+- **3 hours** trying to get SHAP explanations from predictions

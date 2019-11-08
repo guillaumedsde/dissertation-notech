@@ -137,3 +137,19 @@
 - redaction legislation context
 - eredact.co.uk
 - comments vs annotations (or comments in annotations)
+
+## 08/11/2019
+
+### Preperation Notes
+
+[most preparation notes are here](https://dissertation.guillaume.desusanne.com/posts/app-stack/)
+
+### Meeting
+
+- Discussion on ElasticSearch pros and cons
+- Demo of first frontend draft
+- some features to try and implement
+  - toggles for different explainers
+    - e.g. SHAP values
+  - toggles for positive negative explanations
+  - gradual opacity based on feature weight
