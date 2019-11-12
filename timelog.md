@@ -160,3 +160,11 @@
 ## 08/11/2019
 
 - **3 hours** trying to get SHAP explanations from predictions
+
+## 11/11/2019
+
+- **3 hours** working on frontend, and further work on SHAP explanations
+
+## 12/11/2019
+
+- **8 hours** trying to get multiple file upload working, more work on frontend, notably popover menu
