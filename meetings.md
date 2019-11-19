@@ -140,7 +140,7 @@
 
 ## 08/11/2019
 
-### Preperation Notes
+### Preparation Notes
 
 [most preparation notes are here](https://dissertation.guillaume.desusanne.com/posts/app-stack/)
 
@@ -153,3 +153,16 @@
     - e.g. SHAP values
   - toggles for positive negative explanations
   - gradual opacity based on feature weight
+
+## 13/11/2019
+
+### Preparation Notes
+
+- [Preparation notes on SHAP explainer](https://dissertation.guillaume.desusanne.com/posts/shap-explainer/)
+- [Preparation notes on UI improvements](https://dissertation.guillaume.desusanne.com/posts/ui-improvements/)
+
+## 20/11/2019
+
+### Preparation Notes
+
+- [Preparation notes on implementing redactions and switching to MongoDB](https://dissertation.guillaume.desusanne.com/posts/implementing-redactions/)
