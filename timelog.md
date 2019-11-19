@@ -168,3 +168,24 @@
 ## 12/11/2019
 
 - **8 hours** trying to get multiple file upload working, more work on frontend, notably popover menu
+
+## 12/11/2019
+
+- **8 hours** trying to get multiple file upload working, more work on frontend, notably popover menu
+
+## 13/11/2019
+
+- **2 hours** Working on CI
+
+## 15/11/2019
+
+- **3 hours** Working on popover menu for redactions and API spec
+  for redactions
+
+## 18/11/2019
+
+- **4 hours** Working on API for redactions, migration to MongoDB and API endpoint for redactions
+
+## 18/11/2019
+
+- **6 hours** Working on frontend for redactions
