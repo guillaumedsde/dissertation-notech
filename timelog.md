@@ -189,3 +189,7 @@
 ## 18/11/2019
 
 - **6 hours** Working on frontend for redactions
+
+## 27/11/2019
+
+- **10 hours** Working on frontend redaction functionality, some backend API tweaks

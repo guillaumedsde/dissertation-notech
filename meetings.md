@@ -166,3 +166,17 @@
 ### Preparation Notes
 
 - [Preparation notes on implementing redactions and switching to MongoDB](https://dissertation.guillaume.desusanne.com/posts/implementing-redactions/)
+
+### Meeting
+
+- accept, accept all, reject all LIME explanations
+- redact all button
+- LIME explanations as character offset to keep track of markup locations
+- wireframe chip around keyboard with % contribution
+- spec V2 document
+
+## 27/11/2019
+
+### Preparation Notes
+
+- [Preparation notes on implementing redactions and switching to MongoDB](https://dissertation.guillaume.desusanne.com/posts/fixing-redactions/)
