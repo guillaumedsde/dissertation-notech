@@ -180,3 +180,15 @@
 ### Preparation Notes
 
 - [Preparation notes on implementing redactions and switching to MongoDB](https://dissertation.guillaume.desusanne.com/posts/fixing-redactions/)
+
+### meeting
+
+- classify and explain on doc upload
+- n-gram
+- visualizations on the side
+  - most sensitive features on the side
+  - overview of the entire document
+    - (maybe Vscode style) to have overview of where to start working on document
+    - "higher level information"
+- explore document visualization literature rather than specific focus on redacting
+  - "lit review"

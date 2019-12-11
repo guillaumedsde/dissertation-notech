@@ -186,10 +186,14 @@
 
 - **4 hours** Working on API for redactions, migration to MongoDB and API endpoint for redactions
 
-## 18/11/2019
+## 20/11/2019
 
 - **6 hours** Working on frontend for redactions
 
 ## 27/11/2019
 
 - **10 hours** Working on frontend redaction functionality, some backend API tweaks
+
+## 11/12/2019
+
+- **6 hours** Research on document visualization techniques
