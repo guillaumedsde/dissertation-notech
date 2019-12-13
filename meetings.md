@@ -192,3 +192,15 @@
     - "higher level information"
 - explore document visualization literature rather than specific focus on redacting
   - "lit review"
+
+## 11/12/2019
+
+### Preparation Notes
+
+- [I've prepared notes in LaTeX](https://gitlab.com/harpocrates-app/logbook/blob/f2fbd9d0d5a92c51b77726384e8f03596109008e/content/latex/document-visualization/document-visualization.tex)
+
+### Meeting
+
+- prediction explanation sidebar visualizations
+  - see SHAP like visualizations
+- document outline
