@@ -10,6 +10,17 @@ build:
   script:
     - apk add make
     - make all
+  artifacts:
+    paths:
+      - "*.pdf"
+
+build-latex:
+  image: aergus/latex:latest
+  stage: build
+  before_script:
+    - apt update
+    - apt install make -y
+  script:
     - make progress-report
     - mv build/main.pdf progress_report.pdf
   artifacts:
