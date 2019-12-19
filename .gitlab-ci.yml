@@ -10,6 +10,8 @@ build:
   script:
     - apk add make
     - make all
+    - make progress-report
+    - mv build/main.pdf progress_report.pdf
   artifacts:
     paths:
       - "*.pdf"

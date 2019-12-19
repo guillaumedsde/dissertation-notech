@@ -1,0 +1,94 @@
+\documentclass[11pt,a4paper,british]{article}
+\usepackage{ifxetex}
+
+\ifxetex
+  \usepackage{fontspec}
+\else
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{babel}
+  \usepackage{lmodern}
+\fi
+
+% \usepackage[margin=1in]{geometry}
+
+\usepackage{hyperref}
+
+% \usepackage{times}
+\usepackage{fullpage}
+    
+\title{Why is This Sensitive? Visualising Important Sensitivity Classification Features}
+\author{Guillaume de Susanne d'Epinay - 2270405d}
+
+\begin{document}
+
+\maketitle
+
+
+\section{Status report}
+
+\subsection{Proposal}\label{proposal}
+
+\subsubsection{Motivation}\label{motivation}
+
+The increasing quantities of information generated increases with the digitalization of its creation processes.
+This is accompanied by a greater desire for government transparency which has materialized in legislation such as the Freedom of Information Act.
+However, coupled together, these trends have transformed the process of redacting sensitive information before its releases into a Herculean task.
+We need tools to handle these considerable information flows and aid redactors in processing documents before they are released to the public.
+
+Amongst them, Machine Learning techniques like text classifiers can potentially help in redacting sensitive information by identifying sensitive documents in advance. However, these classifications, in order to be useful need to be trusted and understood, this is where Machine Learning model explainers come in. Given a trained model and a text document, we can predict a classification for the document accompanied by an explanation for that classification, outputting text features that contributed in favour or against the classification.
+
+\subsubsection{Aims}\label{aims}
+
+Thus, we need to devise ways to visualize these text documents along with their classification and its explanation in an interface which enables redactors to process documents faster. Using Machine Learning classifiers accompanied by explanation techniques, this software would enable redactors to process more documents to counter the aforementioned growing quantities of information and increasing demands for transparency.
+
+
+\subsection{Progress \emph{in chronological order}
+}\label{progress}
+
+\begin{itemize}
+    \item Hands on SkLearn framework, experimented with different text pre-processing techniques and classifiers to build a Pipeline to classify textual documents into either sensitive or not sensitive categories
+    \item overview of Machine Learning model explanation techniques, successfully implemented the Lime explainer, tried to use the SHAP explainer, but was unsuccessful
+    \item Explore text document storage, looked at Terrier, ElasticSearch to finally settle on MongoDB
+    \item Packaged SkLearn classifier into Python Flask API with OpenAPI specification
+    \item created Javascript API Client from code generated from OpenAPI specification
+    \item hands on ReactJS Javascript frontend framework, implemented a document browsing, viewing and upload frontend
+    \item added text redaction feature to mark sections as sensitive with a label explaining why it is deemed sensitive
+    \item implemented Lime Model explanations in Python backend, exposed them to the Flask API and created a frontend "in text" visualization of these sensitivities
+    \item Research Document visualization techniques (literature review)
+    \item created a populator script to load and classify all documents
+    \item graph visualization of feature contribution to the classification and other UI tweaks
+\end{itemize}
+
+\subsection{Problems and risks}\label{problems-and-risks}
+
+\subsubsection{Problems}\label{problems}
+
+\begin{itemize}
+    \item No knowledge of ReactJS and only marginal experience of frontend javascript led to quite some time learning it. This is notably making some features such as a scrollable document outline with sensitivities more problematic to implement.
+    \item Some (remaining) difficulties implementing the SHAP explainer framework
+\end{itemize}
+
+\subsubsection{Risks}\label{risks}
+
+\begin{itemize}
+    \item Limited JS frontend knowledge might hinder plans for certain sensitivity visualizations
+    
+    will need to strategically decide on which visualizations to implement, research into already implement components might also help
+
+    \item Measuring success (document review time etc...) might require multiple interface implementations/ variations for quantitative comparison, this will probably be time consuming.
+    
+    will need to strategically decide on which interface ``variations'' to implement
+
+\end{itemize}
+
+\subsection{Plan}\label{plan}
+
+\begin{itemize}
+    \item Week 1-2 continue implementing document sensitivity ``overviews'' like a document outline with highlighted features or visualization interactions that scroll the user to a particular feature
+    \item Week 3-4 Implement Document collection wide visualization of sensitive documents such as document sorting by sensitivity. Backend ML model refinements and visualization of classifier reliability, devise 
+    \item Week 5-6 Prepare and conduct a user study for measuring performance
+    \item Week 7-10 analyze results, write dissertation
+\end{itemize}
+
+\end{document}

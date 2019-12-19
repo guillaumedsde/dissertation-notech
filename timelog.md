@@ -197,3 +197,23 @@
 ## 11/12/2019
 
 - **6 hours** Research on document visualization techniques
+
+## 13/12/2019
+
+- **6 hours** Implement a sensitivity visualization
+
+## 15/12/2019
+
+- **6 hours** further work on sensitivity visualization and classify documents on load
+
+## 16/12/2019
+
+- **7 hours** classify on files on upload, bugfixes, layout tweaks
+
+## 17/12/2019
+
+- **6 hours** more layout tweaks, bugfixes, work on API spec, added navigation
+
+## 19/12/2019
+
+- **6 hours** issues cleanup, work on progress report, try to implement click on feature to scroll.

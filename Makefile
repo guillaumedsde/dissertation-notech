@@ -19,3 +19,8 @@ clean :
 
 # Remove all PDF outputs then build them again
 rebuild : clean all
+
+
+# Remove all PDF outputs
+progress-report :
+	latexmk -xelatex -synctex=1 -interaction=nonstopmode --output-directory=build -file-line-error --shell-escape ./progress_report/main.tex
