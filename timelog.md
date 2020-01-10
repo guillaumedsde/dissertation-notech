@@ -217,3 +217,7 @@
 ## 19/12/2019
 
 - **6 hours** issues cleanup, work on progress report, try to implement click on feature to scroll.
+
+## 20/12/2019
+
+- **1 hour** Meeting preparation, progress report and meeting
