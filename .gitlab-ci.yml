@@ -15,6 +15,7 @@ build:
     paths:
       - "*.pdf"
       - "*.html"
+      - "*.css"
 
 build-latex:
   image: aergus/latex:latest
@@ -37,6 +38,7 @@ pages:
     - mkdir public
     - cp *.pdf public/
     - cp *.html public/
+    - cp *.css public/
     - mv public/README.md.html public/index.html
   artifacts:
     paths:
