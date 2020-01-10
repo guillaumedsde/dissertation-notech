@@ -9,10 +9,12 @@ build:
   stage: build
   script:
     - apk add make
-    - make all
+    - make pdfs
+    - make htmls
   artifacts:
     paths:
       - "*.pdf"
+      - "*.html"
 
 build-latex:
   image: aergus/latex:latest
@@ -22,7 +24,9 @@ build-latex:
     - apt install make -y
   script:
     - make progress-report
-    - mv build/main.pdf progress_report.pdf
+    - mv progress_report/build/main.pdf progress_report.pdf
+    - make document-visualization
+    - document_visualization/build/main.pdf document_visualization.pdf
   artifacts:
     paths:
       - "*.pdf"
@@ -32,6 +36,8 @@ pages:
   script:
     - mkdir public
     - cp *.pdf public/
+    - cp *.html public/
+    - mv public/README.md.html public/index.html
   artifacts:
     paths:
       - public
