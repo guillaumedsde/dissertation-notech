@@ -26,7 +26,7 @@ build-latex:
     - make progress-report
     - mv progress_report/build/main.pdf progress_report.pdf
     - make document-visualization
-    - document_visualization/build/main.pdf document_visualization.pdf
+    - mv document_visualization/build/main.pdf document_visualization.pdf
   artifacts:
     paths:
       - "*.pdf"
