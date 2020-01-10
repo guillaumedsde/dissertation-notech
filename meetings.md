@@ -204,3 +204,11 @@
 - prediction explanation sidebar visualizations
   - see SHAP like visualizations
 - document outline
+
+## 20/12/2019
+
+### Meeting
+
+- paragraph level explanation feature density to score paragraphs
+- Individual section labels
+- bug: max explanation slider goes back to 10
