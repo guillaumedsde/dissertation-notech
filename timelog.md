@@ -221,3 +221,7 @@
 ## 20/12/2019
 
 - **1 hour** Meeting preparation, progress report and meeting
+
+## 14/01/2020
+
+- **6 hours** UI tweaks and bugfixing
