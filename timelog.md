@@ -225,3 +225,7 @@
 ## 14/01/2020
 
 - **6 hours** UI tweaks and bugfixing
+
+## 16/01/2019
+
+- **3 hours** tweaks and bugfixing
