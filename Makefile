@@ -27,8 +27,8 @@ htmls : $(HTMLS)
 # This generic rule accepts HTML targets with corresponding Markdown
 # source, and makes them using pandoc
 %.md.html : %.md
-	wget -N https://raw.githubusercontent.com/davidrzs/latexcss/master/latex.css
-	pandoc -s $< -o $@ --css=latex.css --to=html5 
+	wget -N https://gist.githubusercontent.com/tuzz/3331384/raw/fc0160dd7ea0b4a861533c4d6c232f56291796a3/github.css
+	pandoc -s $< -o $@ --css=github.css --to=html5 
 
 # Remove all HTML outputs
 clean-htmls :
