@@ -212,3 +212,9 @@
 - paragraph level explanation feature density to score paragraphs
 - Individual section labels
 - bug: max explanation slider goes back to 10
+
+## 21/01/2020
+
+### Preparation Notes
+
+- [see here](https://dissertation.guillaume.desusanne.com/posts/feature-density-shap2-other/)
