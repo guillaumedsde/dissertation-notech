@@ -234,3 +234,7 @@
 
 - **2 hours** Tried but failed to implement a minimap overview of document content
 - **3 hours** implementing SHAP explainer
+
+## 19/01/2019
+
+- **4 hours** documentation, API and frontend tweaks, logged progress
