@@ -229,3 +229,8 @@
 ## 16/01/2019
 
 - **3 hours** tweaks and bugfixing
+
+## 18/01/2019
+
+- **2 hours** Tried but failed to implement a minimap overview of document content
+- **3 hours** implementing SHAP explainer
