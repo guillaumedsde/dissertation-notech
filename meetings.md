@@ -218,3 +218,9 @@
 ### Preparation Notes
 
 - [see here](https://dissertation.guillaume.desusanne.com/posts/feature-density-shap2-other/)
+
+### Meeting
+
+- the elements of statistics learning (hastie) chap 9 10
+  - for learning more about classifier algorithms
+- Hover over paragraph shows explanations for paragraph classification
