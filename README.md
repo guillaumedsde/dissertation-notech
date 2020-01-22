@@ -6,11 +6,11 @@ All markdown in this repository is rendered in PDF using [pandoc](https://github
 
 Development (issues, boards, CI, Docker respositories...) happens on [gitlab.com](https://gitlab.com/visualising-sensitivity-classification-features/notech) and a mirror (source code only, no issues etc...) of this repository is available on [github.com](https://github.com/guillaumedsde/dissertation-notech).
 
-## [Timelog](https://harpocrates-app.gitlab.io/notech/timelog.md.pdf)
+## [Timelog](https://harpocrates-app.gitlab.io/notech/timelog.md.html)
 
 A log of the time I have spent on the project.
 
-## [Meeting Notes](https://harpocrates-app.gitlab.io/notech/meetings.md.pdf)
+## [Meeting Notes](https://harpocrates-app.gitlab.io/notech/meetings.md.html)
 
 Notes taken during weekly meeting for the project.
 
