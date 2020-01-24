@@ -254,3 +254,4 @@
 ## 24/02/2020
 
 - **1 hour** deploy GridSearch on DigitalOcean
+- **2 hours** implement GridSearch results and bugfixing
