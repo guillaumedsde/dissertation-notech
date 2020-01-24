@@ -237,4 +237,20 @@
 
 ## 19/01/2019
 
-- **4 hours** documentation, API and frontend tweaks, logged progress
+- **4 hours** documentation, API and frontend tweaks
+
+## 20/01/2020
+
+- **2 hours** Research on SHAP explainer, prepare meeting
+
+## 22/02/2020
+
+- **7 hours** initial API modifications for paragraph level classifications
+
+## 23/02/2020
+
+- **2 hours** GridSearch to find best Parameters for model, research on SHAP
+
+## 24/02/2020
+
+- **1 hour** deploy GridSearch on DigitalOcean
