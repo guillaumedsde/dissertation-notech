@@ -243,15 +243,27 @@
 
 - **2 hours** Research on SHAP explainer, prepare meeting
 
-## 22/02/2020
+## 22/01/2020
 
 - **7 hours** initial API modifications for paragraph level classifications
 
-## 23/02/2020
+## 23/01/2020
 
 - **2 hours** GridSearch to find best Parameters for model, research on SHAP
 
-## 24/02/2020
+## 24/01/2020
 
 - **1 hour** deploy GridSearch on DigitalOcean
 - **2 hours** implement GridSearch results and bugfixing
+
+## 25/01/2020
+
+- **4 hours** Implementing classification at any level in the document
+
+## 26/01/2020
+
+- **6 hours** continue implementing classification at any level in the document and other bugfixes
+
+## 27/01/2020
+
+- **2 hours** repository cleanup and log progress

@@ -224,3 +224,17 @@
 - the elements of statistics learning (hastie) chap 9 10
   - for learning more about classifier algorithms
 - Hover over paragraph shows explanations for paragraph classification
+
+## 21/01/2020
+
+### Preparation Notes
+
+- [see here](https://dissertation.guillaume.desusanne.com/posts/paragraphs/)
+
+### Meeting
+
+- show in document classification on the right as opposed to the left
+- also need to fix some bugs, cleanup branch and merge it
+- GridSearch over bigger parameter space and **log results** for comparison
+  - maybe over multiple classifiers?
+  - jupyter notebook?
