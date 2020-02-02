@@ -267,3 +267,19 @@
 ## 27/01/2020
 
 - **2 hours** repository cleanup and log progress
+
+## 30/02/2020
+
+- **3 hours** frontend bugfixing
+
+## 31/02/2020
+
+- **4 hours** working on SVM GridSearch
+
+## 01/02/2020
+
+- **4 hours** working on SVM GridSearch
+
+## 02/02/2020
+
+- **6 hours** working on SVM GridSearch and on parallel SVM implementation
