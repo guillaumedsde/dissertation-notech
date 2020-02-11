@@ -282,4 +282,20 @@
 
 ## 02/02/2020
 
-- **6 hours** working on SVM GridSearch and on parallel SVM implementation
+- **5 hours** working on SVM GridSearch and on parallel SVM implementation
+
+## 03/02/2020
+
+- **4 hours** working on SVM GridSearch and on parallel SVM implementation
+
+## 05/02/2020
+
+- **4 hours** grid search results analysis and classifier research
+
+## 08/02/2020
+
+- **2 hours** work on Stratified K-fold implementation
+
+## 11/02/2020
+
+- **2 hours** work on XGBoost Grid Search

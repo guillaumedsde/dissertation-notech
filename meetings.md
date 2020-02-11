@@ -238,3 +238,15 @@
 - GridSearch over bigger parameter space and **log results** for comparison
   - maybe over multiple classifiers?
   - jupyter notebook?
+
+## 11/02/2020
+
+## Preparation notes
+
+- see [here](https://dissertation.guillaume.desusanne.com/posts/whats-next/)
+
+## Meeting
+
+- one hot encoder
+- Downsample training data
+- plan for evaluation
