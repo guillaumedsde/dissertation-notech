@@ -299,3 +299,15 @@
 ## 11/02/2020
 
 - **2 hours** work on XGBoost Grid Search
+
+## 12/02/2020
+
+- **4 hours** bugfixing, trying to reproduce Craig and Graham's research
+
+## 15/02/2020
+
+- **5 hours** sensitivity review process research and try to reproduce Graham and Craig's classifier
+
+## 16/02/2020
+
+- **6 hours** sensitivity review process and user study research, bugfixing
