@@ -21,3 +21,7 @@ A Literature review of the research on document visualization.
 ## [December Progress Report](https://harpocrates-app.gitlab.io/notech/progress_report.pdf)
 
 December report on progress halfway through the project.
+
+## [User Evaluation](https://harpocrates-app.gitlab.io/notech/progress_report.pdf)
+
+December report on progress halfway through the project.
