@@ -241,12 +241,37 @@
 
 ## 11/02/2020
 
-## Preparation notes
+### Preparation notes
 
 - see [here](https://dissertation.guillaume.desusanne.com/posts/whats-next/)
 
-## Meeting
+### Meeting
 
 - one hot encoder
 - Downsample training data
 - plan for evaluation
+
+## 17/02/2020
+
+### Preparation Notes
+
+- see [here](https://dissertation.guillaume.desusanne.com/posts/one-hot-oversampling-and-evaluation/)
+- key points to bring up
+  - unable to reproduce classifier from paper
+    - do you have more details?
+    - otherwise a classifier?
+  - user study
+    - evaluation metrics
+      - timing, record clicks and questionnaire
+    - evaluation "subjects"
+      - other students from Politics?
+        - lots of subjects, "free"
+        - not very qualified
+      - Lecturers and Tutors from Politics?
+        - fewer, probably less willing
+      - When you conducted your user study, you asked University staff: who?
+    - which documents?
+      - sensitive document collection? risky?
+      - other collection, not as relevant?
+
+### Meeting
