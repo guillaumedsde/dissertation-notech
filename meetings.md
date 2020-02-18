@@ -275,3 +275,23 @@
       - other collection, not as relevant?
 
 ### Meeting
+
+- User study
+
+  - one where classifier is wrong/right
+  - which documents?
+  - which students?
+  - which instantiations of the system?
+    - hide some interface components
+    - order of document
+    - choose number of explanations etc... (experimental setup)
+  - dependent variable
+    - questionaires
+      - **need to have draft by next week**
+      - SUS System usability survey
+      - chi square
+      - ANOVA
+    - timing
+  - how to evaluate ML explanations (article with "transparency" as keyword)
+
+- **dissertation outline by next week**
