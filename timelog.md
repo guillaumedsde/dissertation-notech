@@ -311,3 +311,7 @@
 ## 16/02/2020
 
 - **6 hours** sensitivity review process and user study research, bugfixing
+
+## 21/02/2020
+
+- **1.5 hours** implementing UI variations for user testing
