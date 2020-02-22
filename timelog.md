@@ -318,4 +318,4 @@
 
 ## 22/02/2020
 
-- **5 hours** Research on user evaluation, questionnaire draft, dissertation outline
+- **5 hours** Research on user evaluation, questionnaire draft, dissertation outline, selecting documents for user study
