@@ -315,3 +315,7 @@
 ## 21/02/2020
 
 - **1.5 hours** implementing UI variations for user testing
+
+## 22/02/2020
+
+- **5 hours** Research on user evaluation, questionnaire draft, dissertation outline
