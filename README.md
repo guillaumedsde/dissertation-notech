@@ -1,4 +1,9 @@
-# Notech Repository
+#
+
+<div align="center">
+  <img width="128" height="128" src="https://harpocrates-app.gitlab.io/harpocrates/docs/harpocrates_512.png" style="border-radius: 5%;">
+  <h1>Harpocrates "notech" Repository</h1>
+</div>
 
 This repository holds files related to my level 4 dissertation that are not source code. This repository's issue tracking will also be used for Notech issues (that don't directly relate to a codebase).
 
@@ -22,6 +27,6 @@ A Literature review of the research on document visualization.
 
 December report on progress halfway through the project.
 
-## [User Evaluation](https://harpocrates-app.gitlab.io/notech/progress_report.pdf)
+## [User Evaluation](https://harpocrates-app.gitlab.io/notech/user_evaluation.md.pdf)
 
 December report on progress halfway through the project.
