@@ -1,5 +1,3 @@
-#
-
 <div align="center">
   <img width="128" height="128" src="https://harpocrates-app.gitlab.io/harpocrates/docs/harpocrates_512.png" style="border-radius: 5%;">
   <h1>Harpocrates "notech" Repository</h1>
@@ -29,8 +27,8 @@ December report on progress halfway through the project.
 
 ## [User Evaluation](https://harpocrates-app.gitlab.io/notech/user_evaluation.md.pdf)
 
-December report on progress halfway through the project.
+Notes and preparations for conducting a user evaluation for Harpocrates
 
 ### [Questionnaire](https://docs.google.com/forms/d/1ZpeUlWykRoVqsDzYZ2s45o4u08EXxLr44hlthCFYwWk)
 
-The questionnaire I used for user evaluation
+The questionnaire for the Harpocrates user evaluations
