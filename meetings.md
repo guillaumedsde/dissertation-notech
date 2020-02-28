@@ -293,3 +293,17 @@
     - ANOVA
   - timing
 - how to evaluate ML explanations (article with "transparency" as keyword)
+
+## 25/02/2020
+
+### Preparation notes
+
+- see [here for preparation notes](https://dissertation.guillaume.desusanne.com/posts/user-study-preparations/)
+- also see [questionnaire for user study](https://docs.google.com/forms/d/1ZpeUlWykRoVqsDzYZ2s45o4u08EXxLr44hlthCFYwWk/edit)
+- and [user study preparation notes](https://harpocrates-app.gitlab.io/notech/user_evaluation.md.pdf)
+
+### Meeting
+
+- 2 document sets 1 for each variation of the UI, randomly alternate between start with simplified version and full version
+- run classifier with same 5 folds as Graham
+- pandas filter to get given confusion matrix (document size, document actually sensitivity)
