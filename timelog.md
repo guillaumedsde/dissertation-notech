@@ -319,3 +319,15 @@
 ## 22/02/2020
 
 - **5 hours** Research on user evaluation, questionnaire draft, dissertation outline, selecting documents for user study
+
+## 23/02/2020
+
+- **7 hours** Fixing data parsing bug that led to nonsensical classifier, worked on selecting documents and dissertation outline,
+
+## 24/02/2020
+
+- **4 hours** working on fixing classifier code bug, tweaks in frontend UI for upcoming user study.
+
+## 27/02/2020
+
+- **3 hours** looking for another bug in the classifier code
