@@ -331,3 +331,11 @@
 ## 27/02/2020
 
 - **3 hours** looking for another bug in the classifier code
+
+## 01/03/2020
+
+- **3 hours** looking for another bug in the classifier code
+
+## 02/03/2020
+
+- **10 hours** Writing dissertation, preparing user study, selecting documents
