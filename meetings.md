@@ -307,3 +307,34 @@
 - 2 document sets 1 for each variation of the UI, randomly alternate between start with simplified version and full version
 - run classifier with same 5 folds as Graham
 - pandas filter to get given confusion matrix (document size, document actually sensitivity)
+
+## 03/03/2020
+
+### Preparation notes
+
+- see [here](https://dissertation.guillaume.desusanne.com/posts/veryfing-classifier-user-study/)
+
+### Meeting
+
+#### User Evaluation
+
+- look at the S27-in-confidence
+- keep track of document order match with tester id
+
+#### demo
+
+- talkaloud
+- script
+  - e.g. redact dates in document
+- show stripped down interface first
+  - discuss web based interface for redacting document
+  - design decisions
+  - which libraries
+- then full one
+  - discuss ML classification and explanation
+- more precise evaluation script (script as in cinema script)
+- find document representative of task
+
+#### Dissertation
+
+Clearer Research question
