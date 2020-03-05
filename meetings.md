@@ -338,3 +338,29 @@
 #### Dissertation
 
 Clearer Research question
+
+## 04/03/2020 Special UI Feedback Meeting
+
+- Good UI layout with respect to workflow
+  - good seperation of controls, content, aids
+  - good use of vertical space
+  - document is central and never hidden
+  - paragraph level annotations on left are good "lead in" to the paragraph
+  - although hard to control information density of document (zomming in/out breaks layout)
+    - view documents side by side, or multiple pages?
+    - leave controls and document in place but use rightmost column for dynamic content (other document, explanation visualization...)
+- Explanation terms not very useful on demoed documents
+  - relationship between terms are important, not just words
+- Would be nice to be able to hide or remove explanations
+- annotating text does not necessarily lead to redactions
+  - cannot reflect that in current UI
+- Experimenting with colors: why not, but be careful of color blindness
+  - outline selection with a colored "box" makes text more legible but what will be redacted becomes less obvious
+- little information outside of document view (e.g. document set view)
+  - preview some of the redactions of the document?
+  - more details without entering the document view
+- more targeted classifier might be more useful?
+- VScode style minimap overview of document mabye not that useful because no time to learn document layout?
+- How to preserve document structure? tables figures etc...
+  - how to redact them?
+-
