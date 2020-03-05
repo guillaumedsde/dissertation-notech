@@ -363,4 +363,3 @@ Clearer Research question
 - VScode style minimap overview of document mabye not that useful because no time to learn document layout?
 - How to preserve document structure? tables figures etc...
   - how to redact them?
--
