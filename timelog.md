@@ -339,3 +339,7 @@
 ## 02/03/2020
 
 - **10 hours** Writing dissertation, preparing user study, selecting documents
+
+## 04/03/2020
+
+- **3 hours** demo and feedback on application
