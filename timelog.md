@@ -343,3 +343,16 @@
 ## 04/03/2020
 
 - **3 hours** demo and feedback on application
+
+## 05/03/2020
+
+- **3 hours** started classifier for demo, demo script tweaks
+
+## 08/03/2020
+
+- **8 hours** writing dissertation, finish selecting documents for user study, finish preparing user study UI and other user study preparations
+
+## 09/03/2020
+
+- **2 hours** dissertation research and writing
+- **1 hour** add tests to CI and implement code coverage
