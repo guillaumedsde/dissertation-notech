@@ -372,6 +372,12 @@ Clearer Research question
 
 ### Meeting notes
 
-- can use other bibliographic style, try `citet` and `citep` natbib commands
-- latex figure options, investigate to reduce size
-- change doc content before including it in dissertation
+- latex
+  - can use other bibliographic style, try `citet` and `citep` natbib commands
+  - latex figure options, investigate to reduce size
+- change doc content before including it in dissertation (don't show identifiable pieces of text)
+- literature review
+  - use other sensivity review research
+  - use ML explanations research
+- presentation
+  - ++ short presentation (take that into account)
