@@ -363,3 +363,15 @@ Clearer Research question
 - VScode style minimap overview of document mabye not that useful because no time to learn document layout?
 - How to preserve document structure? tables figures etc...
   - how to redact them?
+
+## 10/03/2020
+
+### Preparation
+
+- see [here](https://dissertation.guillaume.desusanne.com/posts/more-user-study-preparations-feedback/)
+
+### Meeting notes
+
+- can use other bibliographic style, try `citet` and `citep` natbib commands
+- latex figure options, investigate to reduce size
+- change doc content before including it in dissertation
