@@ -5,9 +5,13 @@
 
 This repository holds files related to my level 4 dissertation that are not source code. This repository's issue tracking will also be used for Notech issues (that don't directly relate to a codebase).
 
-All markdown in this repository is rendered in PDF using [pandoc](https://github.com/jgm/pandoc) and [Gitlab CI](https://gitlab.com/visualising-sensitivity-classification-features/notech/pipelines). The PDFs are published on Gitlab Pages with the following url structure:
+All markdown in this repository is rendered in PDF using [pandoc](https://github.com/jgm/pandoc) and [Gitlab CI](https://gitlab.com/harpocrates-app/notech/pipelines). The PDFs are published on Gitlab Pages with the following url structure:
 
-Development (issues, boards, CI, Docker respositories...) happens on [gitlab.com](https://gitlab.com/visualising-sensitivity-classification-features/notech) and a mirror (source code only, no issues etc...) of this repository is available on [github.com](https://github.com/guillaumedsde/dissertation-notech).
+Development (issues, boards, CI, Docker respositories...) happens on [gitlab.com](https://gitlab.com/harpocrates-app/notech) and a mirror (source code only, no issues etc...) of this repository is available on [github.com](https://github.com/guillaumedsde/dissertation-notech).
+
+## [Application Requirements](https://harpocrates-app.gitlab.io/notech/requirements.md.html)
+
+A list of requirements for the application in MoSCoW format.
 
 ## [Timelog](https://harpocrates-app.gitlab.io/notech/timelog.md.html)
 
