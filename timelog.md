@@ -356,3 +356,11 @@
 
 - **2 hours** dissertation research and writing
 - **1 hour** add tests to CI and implement code coverage
+
+## 13/03/2020
+
+- **2 hours** frontend fixes in preparation of user study
+
+## 15/03/2020
+
+- **8 hours** preparing user study, literature review, writing dissertation
