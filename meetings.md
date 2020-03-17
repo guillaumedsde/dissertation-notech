@@ -381,3 +381,36 @@ Clearer Research question
   - use ML explanations research
 - presentation
   - ++ short presentation (take that into account)
+
+## 17/03/2020
+
+### Meeting notes
+
+- User studies
+  - describe reality
+  - say ran 1 study, explain problems, and insights drawn from this
+  - explain how I would have analysed the results
+  - talk about demo meeting as professional panel test
+- legal ediscovery different because can afford to skip docs
+  - most comparable analogy is with "privileged" document (i.e. attornet-client privilege)
+    -design
+  - number the requiremnents to link back to them precisely
+  - show openapi spec
+    - mabye render the models?
+  - diagram of entire systme
+- implementation
+  - show how documentation is generated
+  - talk about source control CI and other software engineering
+  - classifier design/performance > evaluation
+  - implementation code snippets, what was difficult, how react helped frontend dev, show some screenshots
+  - which components did I try out
+- Design is higher level, implementation is "the code"
+- Related products
+  - whats wrong with adobe reader etc... "this is what nobody else does"
+  - what do they all do number these and reference back?
+  - number limitations of alternatives, to refernce back to them and requirements
+- literature review
+  - past tense
+  - rest in present
+- Presentation
+  - slides following dissertation outline
