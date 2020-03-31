@@ -414,3 +414,16 @@ Clearer Research question
   - rest in present
 - Presentation
   - slides following dissertation outline
+
+## 31/03/2020
+
+### Preparation Notes
+
+- Snowden leak as background, is that OK?
+- WHat should non functional requirements be? detail user study? but isnt that done in the user study section?
+- Should I state null hypothesises ?
+- Should I normalize document review time ?
+  - length of document does not make sense?
+  - normalize by complexity?
+  - normalize by error rate?
+- For T-test on review time: take average review time across documents for each user OR average review time for each document across interfaces
