@@ -342,7 +342,7 @@ Clearer Research question
 ## 04/03/2020 Special UI Feedback Meeting
 
 - Good UI layout with respect to workflow
-  - good seperation of controls, content, aids
+  - good separation of controls, content, aids
   - good use of vertical space
   - document is central and never hidden
   - paragraph level annotations on left are good "lead in" to the paragraph
@@ -355,7 +355,7 @@ Clearer Research question
 - annotating text does not necessarily lead to redactions
   - cannot reflect that in current UI
 - Experimenting with colors: why not, but be careful of color blindness
-  - outline selection with a colored "box" makes text more legible but what will be redacted becomes less obvious
+  - outline selection with a coloured "box" makes text more legible but what will be redacted becomes less obvious
 - little information outside of document view (e.g. document set view)
   - preview some of the redactions of the document?
   - more details without entering the document view
