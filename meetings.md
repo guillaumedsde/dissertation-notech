@@ -427,3 +427,34 @@ Clearer Research question
   - normalize by complexity?
   - normalize by error rate?
 - For T-test on review time: take average review time across documents for each user OR average review time for each document across interfaces
+
+## Meeting notes
+
+- Dissertation
+  - Objective rather than Objectives
+  - Lead in to chapters
+  - explanations in machine learning introduce (too out of context right now)
+  - fix citations years even for software
+  - introduce and analyze figures "figure X shows that" rather than "we see blah as in Figure X"
+  - tweak requirements (allowed to change them a bit)
+  - diagram is implementation need new diagram for more general layout for design
+  - resizebox table to shrink font
+  - show api.getsensitivities code in frontend
+  - classifier performance goes in "setup details" for evaluation "trying to find best classifier for user study"
+    - mabye add a research question on best classifier to use?
+  - what I discovered in the panel that I took over to the user study + other stuff I discovered
+  - user study in past but analyse in present
+  - illustrative textual example of classification and explanation
+  - don't go in depth on Lime, only mention Lime how it works if it fits in the narrative
+    - but do introduce the general concept
+  - state null hypothesis explicitly
+  - Clinton email introduction?
+  - change Overview => outline
+- Slides
+  - one sentence summary of slide
+  - reflect quantity of documents in slides
+  - slides on related products
+  - then lead into objectives
+  - stack diagram before openapi examples
+  - slide on evaluation
+    - evaluation needs to answer requirements
