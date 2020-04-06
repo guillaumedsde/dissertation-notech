@@ -364,3 +364,67 @@
 ## 15/03/2020
 
 - **8 hours** preparing user study, literature review, writing dissertation
+
+## 16/03/2020
+
+- **8 hours** Working on dissertation, document visualization, design and implementation
+
+## 17/03/2020
+
+- **2 hours** meeting, notes, and updated documentation
+
+## 18/03/2020
+
+- **5 hours** writing dissertation, frontend fixes, tech stack diagram
+
+## 20/03/2020
+
+- **4 hours** writing dissertation
+
+## 24/03/2020
+
+- **6 hours** writing dissertation, introduction and technology choices
+
+## 26/03/2020
+
+- **6 hours** wiriting dissertation, objectives, introduction and layout fixes
+
+## 27/03/2020
+
+- **5 hours** writing dissertation, implementation
+
+## 28/03/2020
+
+- **6 hours** wiriting dissertation, layout, code analysis
+
+## 29/03/2020
+
+- **5 hours** wiriting dissertation, fixing code styling, code analysis
+
+## 30/03/2020
+
+- **6 hours** writing dissertation, classifier tweaks, results
+
+## 31/03/2020
+
+- **5 hours** writing dissertation, preparing for meeting
+
+## 01/04/2020
+
+- **4 hours** writing dissertation, implementation
+
+## 03/04/2020
+
+- **8 hours** writing dissertation, proofreading, layout and more content
+
+## 04/04/2020
+
+- **6 hours** writing dissertation, proofreading, layout tweaks and conclusion
+
+## 05/04/2020
+
+- **10 hours** scripting and recording presentation
+
+## 06/04/2020
+
+- **6 hours** final touches on presentation and dissertation
